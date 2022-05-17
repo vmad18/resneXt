@@ -73,10 +73,9 @@ class ConvBlock(Layer):
 
 class ResNet50(Model):
 
-    def __init__(self, inp_dims=(255, 255, 3), labels=10, out=true):
+    def __init__(self, labels=10, out=true):
         super(ResNet50, self).__init__()
 
-        self.inp_dims = inp_dims
         self.labels = labels
         self.out = out
 
