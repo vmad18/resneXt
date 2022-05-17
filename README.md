@@ -1,5 +1,5 @@
 # ResNeXt
- Implementation of the ResNeXt50 and ResNet50, a deep convolution neural network, used for classification tasks in computer vision. 
+ Implementation of the ResNeXt50 and ResNet50 architectures, a deep convolution neural network, used for classification tasks in computer vision. 
  
  
  # Original Papers
